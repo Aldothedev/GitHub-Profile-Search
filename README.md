@@ -1,4 +1,4 @@
-# GitHub User Search App
+# GitHub User Search App - React.js
 
 ### 🚀 See The Live Site: [GitHub User Search App](https://aldothedev.github.io/GitHub-App/)
 
