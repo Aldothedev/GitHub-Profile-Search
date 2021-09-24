@@ -1,3 +1,22 @@
+# GitHub User Search App
+
+### 🚀 See The Live Site: [GitHub User Search App](https://eager-neumann-254b81.netlify.app)
+
+
+![Design preview for the GitHub user search app coding challenge](./preview.jpg)
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+- [React](https://reactjs.org/) - JS library
+- [Next.js](https://nextjs.org/) - React framework
+- [Styled Components](https://styled-components.com/) - For styles
+
+
 # Frontend Mentor - GitHub user search app solution
 
 This is a solution to the [GitHub user search app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/github-user-search-app-Q09YOgaH6).
